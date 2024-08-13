@@ -1,3 +1,4 @@
+
 a = int(input ("Введіть число a: "))
 
 while (a < 1 or a > 100):
